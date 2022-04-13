@@ -1,4 +1,4 @@
-## Salve meus tchucos!! Luquita na área 
+## É o pai né, dispensa apresentações...
 
 📓 Atualmente estudando Front-End (HTML5, Java, CSS3)
 🔥 Animado em aprender
