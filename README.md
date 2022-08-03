@@ -1,7 +1,6 @@
 ## “Sempre em movimento é o Futuro” - Yoda...
 
-📓 Atualmente estudando Front-End (HTML5, Java, CSS3)
-🔥 Animado em aprender
+📓 Atualmente estudando C na faculdade e iniciando aprendizado em Front-End (HTML5, Java, CSS3)
 
 <div align="center">
   <a href="https://github.com/Lucas-vna">
